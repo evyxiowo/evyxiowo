@@ -51,4 +51,3 @@ Feel free to explore my repositories and projects. If you have any suggestions o
 
 This README reflects my ongoing journey in tech. It’s not perfect, but I’m growing every day! 🚀
 
-Let me know if you want me to make any changes or add more sections!
